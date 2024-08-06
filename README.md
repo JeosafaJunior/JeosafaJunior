@@ -1,6 +1,5 @@
-Tudo bem? 👋
-
-Me chamo Jeosafá Júnior, atualmente atuo como corretor de imóveis, e estou migrando como programado Front-End,no momento estou criando projetos com códigos:
+Tudo bem? 👍
+Sou Jeosafá Júnior, atualmente atuo como corretor de imóveis, e estou migrando para atuar como programado Front-End,no momento estou criando projetos com códigos:
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html.logo"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css.logo" />
