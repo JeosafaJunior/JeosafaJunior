@@ -1,4 +1,5 @@
 Tudo bem? 👍
+<br>
 Sou Jeosafá Júnior, atualmente atuo como corretor de imóveis, e estou migrando para atuar como programado Front-End,no momento estou criando projetos com códigos:
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html.logo"/>
